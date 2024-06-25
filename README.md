@@ -18,14 +18,6 @@ This Operating Systems project implements a task orchestration service, coordina
 
 ---
 
-## Developed by:
-
-[Rafael Seara](https://github.com/rafaellseara)<br>
-[Lara Regina](https://github.com/larareginaa)<br>
-[Martim Melo](https://github.com/MartimMelo)<br>
-
----
-
 To run the project, you need to run the make command and then go to the bin directory and pass the following commands:
 
 * **./orchestrator results 3 1** -> The first argument is the folder created in the source for the results, the second argument is the number of tasks to run in parallel and the third argument is the type of scheduling (1 - First Come First Serve and 0 - Fast and First Come First Serve).
@@ -36,3 +28,11 @@ To run the tests, you need to enter the bin directory and then execute the follo
 
 * **chmod +x test.sh**
 * **time ./test.sh**
+
+---
+
+## Developed by:
+
+[Rafael Seara](https://github.com/rafaellseara)<br>
+[Lara Regina](https://github.com/larareginaa)<br>
+[Martim Melo](https://github.com/MartimMelo)<br>
