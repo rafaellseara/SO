@@ -1,4 +1,30 @@
-# SO
+# Sistemas Operativos
+---
+
+## Grade: 17/20 ⭐
+---
+
+This Operating Systems project implements a task orchestration service, coordinating the execution of tasks submitted by a user to a server in a client-server model.
+
+**Learning Outcomes**
+
+- Client-Server Model: Implementing communication between client and server using FIFOs
+- Task Submission: Sending individual tasks or pipelines via command line
+- Task Scheduling: Implementing scheduling policies (FCFS and FFCFS)
+- Parallel Execution: Managing parallel tasks using forks and pipes
+- Status Query: Implementing status queries for tasks on the server
+- Result Management: Redirecting task results to files
+- Testing and Comparison: Evaluating the efficiency of scheduling policies with automated tests
+
+---
+
+## Developed by:
+
+[Rafael Seara](https://github.com/rafaellseara)<br>
+[Lara Regina](https://github.com/larareginaa)<br>
+[Martim Melo](https://github.com/MartimMelo)<br>
+
+---
 
 To run the project, you need to run the make command and then go to the bin directory and pass the following commands:
 
